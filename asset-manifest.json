@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skanetrafiken/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/skanetrafiken/static/js/main.79cea826.chunk.js",
+    "main.js.map": "/skanetrafiken/static/js/main.79cea826.chunk.js.map",
+    "runtime-main.js": "/skanetrafiken/static/js/runtime-main.444a0a9e.js",
+    "runtime-main.js.map": "/skanetrafiken/static/js/runtime-main.444a0a9e.js.map",
+    "static/js/2.45343cc0.chunk.js": "/skanetrafiken/static/js/2.45343cc0.chunk.js",
+    "static/js/2.45343cc0.chunk.js.map": "/skanetrafiken/static/js/2.45343cc0.chunk.js.map",
+    "static/js/3.1d30f65b.chunk.js": "/skanetrafiken/static/js/3.1d30f65b.chunk.js",
+    "static/js/3.1d30f65b.chunk.js.map": "/skanetrafiken/static/js/3.1d30f65b.chunk.js.map",
+    "index.html": "/skanetrafiken/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/skanetrafiken/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.45343cc0.chunk.js.LICENSE.txt": "/skanetrafiken/static/js/2.45343cc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.444a0a9e.js",
+    "static/js/2.45343cc0.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.79cea826.chunk.js"
+  ]
+}
